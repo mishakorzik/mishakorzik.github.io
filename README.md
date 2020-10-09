@@ -27,3 +27,12 @@
 с надписю Click-here.
 И ви перейдете на другой сайт созданий.
 By mishakorzik (DeplayGo)
+
+---
+   <h3 align="center">
+      <a href="https://github.com/mishakorzik/mishakorzik.menu.io">Click-here</a>
+
+If you do not understand something, then call the button
+labeled Click-here.
+And you will go to another creature site.
+By mishakorzik (DeplayGo)
